@@ -12,7 +12,7 @@ Compilador C++: Este projeto foi desenvolvido e testado no C++ Builder do Embarc
 <h2>Como Usar</h2>
 <ol>
 Clonar o repositório:
-<l1>git clone https://github.com/seu-usuario/validador-cpf.git</li>
+<l1>git clone https://github.com/YinBits/CPF-Verifier.git</li>
 <li>Compilar o código:
 Abra o projeto no C++ Builder ou use o seu compilador C++ de preferência.</li>
 <li>Compile o arquivo CPF_Verifier.cpp.</l1>
