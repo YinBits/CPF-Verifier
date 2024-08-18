@@ -11,8 +11,8 @@ Este projeto é um programa simples em C++ que valida e determina a localidade d
 Compilador C++: Este projeto foi desenvolvido e testado no C++ Builder do Embarcadero, mas deve funcionar em qualquer ambiente C++ que suporte a biblioteca padrão e manipulação básica de strings.
 <h2>Como Usar</h2>
 <ol>
-<l1>Clonar o repositório:
-git clone https://github.com/seu-usuario/validador-cpf.git</li>
+Clonar o repositório:
+<l1>git clone https://github.com/seu-usuario/validador-cpf.git</li>
 <li>Compilar o código:
 Abra o projeto no C++ Builder ou use o seu compilador C++ de preferência.</li>
 <li>Compile o arquivo CPF_Verifier.cpp.</l1>
@@ -26,9 +26,8 @@ Ao executar o programa, a seguinte interação pode ocorrer:
 Digite seu CPF (formato 000.000.000-00): 123.456.789-09
 CPF VÁLIDO
 A localidade do CPF é: São Paulo
+
 Se o CPF for inválido:
-
-
 Digite seu CPF (formato 000.000.000-00): 123.456.789-00
 CPF INVÁLIDO
 IMPOSSÍVEL LOCALIZAR CPF INVÁLIDO
