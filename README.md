@@ -1,4 +1,4 @@
-    <div class="container">
+
         <h1>Validação de RG em C++</h1>
         <p>Este projeto implementa um programa simples em C++ para validar números de RG (Registro Geral), um documento de identificação utilizado no Brasil.</p>
         
@@ -36,4 +36,4 @@
         <h2>Contribuição</h2>
         <p>Sinta-se à vontade para fazer um fork deste projeto e enviar pull requests. Sugestões e melhorias são sempre bem-vindas.</p>
        
-    </div>
+
